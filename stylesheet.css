@@ -1,0 +1,106 @@
+body{
+	background-color: #8BE3E8;
+}
+
+a {
+	color: #0700DB;
+}
+
+a:hover {
+	color: #DB1E00;	
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+img {
+	-webkit-border-radius: 20px;
+	-webkit-box-shadow: 5px 5px 5px 5px #000000;
+	padding: 5px;
+}
+#contactlink {
+	display: inline;
+	margin-right: 10px;
+}
+
+#hac {
+	margin-left: 85%
+}
+
+#mainheader {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 45px;
+}
+
+.hobbies {
+	text-align: center;
+}
+
+.hobbylist {
+	text-align: left;
+	margin-left: 42%;
+}
+
+.abouttext {
+	font-family: 'Saira', sans-serif;
+}
+
+.likes {
+	text-align: center;
+}
+
+.likelist {
+	text-align: left;
+	margin-left: 30%;
+}
+.contactbox{
+	text-align: center;
+	margin-left: 500px;
+	margin-right: 500px;
+	padding: 30px;
+	border: 5px double #000000;
+}
+ 
+.welcome {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 20px;
+	text-align: left;
+}
+
+ .twins {
+ 	float: right;
+ 	margin: 10px;
+ 	width: 350px;
+ 	height: 500px;
+ }
+
+ .wed {
+ 	float: left;
+ 	margin: 20px;
+ 	width: 450px;
+ 	height: 300px;
+ }
+
+.lake {
+	width: 1150px;
+	height: 600px;
+	margin-top: 10px;
+	margin-left: 10%;
+}
+
+@media (min-width: 600px) {
+	font-size: 1.25rem;
+}
+
+@media (min-width: 800px) {
+	font-size: 1.5rem;
+	line-height: 1.5;
+}
+
+
+
